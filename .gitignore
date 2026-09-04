@@ -1,0 +1,16 @@
+# Local staging used to prepare separate public repositories.
+github-ready/
+
+# Temporary audit artifacts.
+.audit/
+
+# Local configuration and generated files.
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+coverage/
+*.log
+*.tmp
+~$*

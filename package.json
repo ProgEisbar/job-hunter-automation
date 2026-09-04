@@ -1,0 +1,10 @@
+{
+  "name": "job-hunter-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Normalización y deduplicación de ofertas laborales para workflows n8n.",
+  "scripts": {
+    "test": "node normalize-job-alerts.test.js"
+  },
+  "license": "UNLICENSED"
+}
